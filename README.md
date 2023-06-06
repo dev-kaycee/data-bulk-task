@@ -3,7 +3,7 @@ The Task API allows you to manage tasks. You can perform operations such as retr
 
 # Getting Started
 
-##To use the Task API, follow the steps below:
+## To use the Task API, follow the steps below:
 Clone the repository or download the source code.
 
 ##### Install the required dependencies using the following command:
